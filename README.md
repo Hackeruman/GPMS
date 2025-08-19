@@ -1,0 +1,2 @@
+# GPMS
+hobbisticzny projekt 
